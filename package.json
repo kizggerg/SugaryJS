@@ -1,0 +1,28 @@
+{
+  "name": "sugaryjs",
+  "version": "0.0.0",
+  "description": "Allowing Developers to Write their Own Syntactic Sugars for JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kizggerg/SugaryJS.git"
+  },
+  "keywords": [
+    "Syntactic",
+    "Sugar",
+    "EBNF",
+    "Extensions",
+    "Syntax",
+    "Semantics",
+    "JavaScript"
+  ],
+  "author": "Greg Gzik, Susan Chen, Hannah Lin, Haozhe Pan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kizggerg/SugaryJS/issues"
+  },
+  "homepage": "https://github.com/kizggerg/SugaryJS#readme"
+}
