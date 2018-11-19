@@ -1,1 +1,1 @@
-exports.SugaryJS = () => console.log("Not Implemented")
+exports.SugaryJS = () => console.log("Not Implemented");

@@ -4,7 +4,9 @@
   "description": "Allowing Developers to Write their Own Syntactic Sugars for JavaScript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "babel --presets env -d lib/ src",
+    "test": "node lib/main.js",
+    "start": "npm run build; npm run test"
   },
   "repository": {
     "type": "git",
@@ -24,5 +26,16 @@
   "bugs": {
     "url": "https://github.com/kizggerg/SugaryJS/issues"
   },
-  "homepage": "https://github.com/kizggerg/SugaryJS#readme"
+  "homepage": "https://github.com/kizggerg/SugaryJS#readme",
+  "dependencies": {
+    "babel-generator": "^6.26.1",
+    "babel-preset-env": "^1.7.0",
+    "babel-template": "^6.26.0",
+    "babel-traverse": "^6.26.0",
+    "babel-types": "^6.26.0",
+    "babylon": "^6.18.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  }
 }
