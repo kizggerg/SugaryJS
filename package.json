@@ -1,6 +1,6 @@
 {
   "name": "sugaryjs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Allowing Developers to Write their Own Syntactic Sugars for JavaScript",
   "main": "index.js",
   "scripts": {
