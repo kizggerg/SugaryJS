@@ -12,5 +12,7 @@ This project has 4 contributors:
 This project is in its initial planning stage. The URLs below link to the proposal and background research documents:
 * Proposal - https://docs.google.com/document/d/1T_bb_tYN7b7u6pTXcGbnfwSgehSrMKKCjf5k0GhxSRQ/edit?usp=sharing
 * Background Research - https://docs.google.com/document/d/1OGuyySAYIimeQYLWHluXgEhdvhb2d4gtIOZBzLgMeLI/edit?usp=sharing
+* Proof-of-Concept - 
+https://docs.google.com/document/d/1oGOFXtBprp5UINM99Ve8MSbKuM3wapbUb2TDH6STdi0/edit?usp=sharing
 
 This document will be continually modified during development with the current progress.
